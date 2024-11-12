@@ -44,5 +44,5 @@ pip install -r requirements.txt
 
 [BERT Paper](https://arxiv.org/abs/1810.04805)
 [TensorFlow Hub](https://www.kaggle.com/models/tensorflow/bert/tensorFlow2/bert-en-uncased-l-10-h-768-a-12)
-[reference](https://www.kaggle.com/datasets/venky73/spam-mails-dataset?resource=download)
+[reference]:https://www.kaggle.com/datasets/venky73/spam-mails-dataset?resource=download
 
