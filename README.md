@@ -6,6 +6,8 @@ A deep learning model using BERT for email spam classification, achieving 94% ac
 
 This project implements an email spam classification system using Google's BERT model. It effectively distinguishes between spam and legitimate emails through transfer learning and fine-tuning on a balanced email dataset.
 
+https://github.com/pushparajanrahul/Spam_Classifier_BERT_24_H768/blob/main/images/Confusion%20Matrix.png
+
 We have used a open dataset [Spam Mails Dataset][reference] from Kaggle for this task
 
 ## Dependencies
