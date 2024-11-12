@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### Confusion Matrix representation
 
-(CM)[https://github.com/pushparajanrahul/Spam_Classifier_BERT_24_H768/blob/main/images/Confusion%20Matrix.png]
+!(CM)[https://github.com/pushparajanrahul/Spam_Classifier_BERT_24_H768/blob/main/images/Confusion%20Matrix.png]
 
 ## Acknowledgments
 
